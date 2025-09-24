@@ -1,0 +1,6 @@
+{
+    "require": {
+        "pipedrive/pipedrive": "^13.2",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
