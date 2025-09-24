@@ -13,13 +13,8 @@ Minimal PHP-integrasjon som:
 ## Konfigurasjon
 Integrasjonen bruker domenet og API-nøkkelen fra case-teksten.
 - Domene: `nettbureaucase`
-- API-nøkkel: `24eaceaa89c83e18fd4aadd3dbab7a3b01ddffc8`
+- API-nøkkel: `your_api_token_here`
 
-Disse kan også settes via miljøvariabler om ønskelig:
-```bash
-export PIPEDRIVE_BASE_URL="https://nettbureaucase.pipedrive.com"
-export PIPEDRIVE_API_TOKEN="24eaceaa89c83e18fd4aadd3dbab7a3b01ddffc8"
-```
 
 Kjøring, bruker test/test_data.json
 ```bash
