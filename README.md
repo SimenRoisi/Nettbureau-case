@@ -28,7 +28,7 @@ PHP-integrasjon som:
 PIPEDRIVE_API_TOKEN=din_api_nokkel  
 PIPEDRIVE_BASE_URL=https://nettbureaucase.pipedrive.com
 ```
-4. **Loggmappe** 
+3. **Loggmappe** 
 Integrasjonen skriver til logs/integration.log.  
 En tom mappe logs/ er lagt med i repoet.  
 
