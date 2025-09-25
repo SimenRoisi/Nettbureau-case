@@ -39,7 +39,7 @@ php run.php
 ```
 Scriptet leser inn test/test_data.json, oppretter organisasjon, person og lead i Pipedrive, og skriver ut output til terminalen:  
 ```
-OK: lead=<uuid> person=<id> org=<id> (Navn, E-post)
+OK: lead=<uuid> person=<id> org=<id> (Navn, E-post, Org-navn)
 ```
 
 ## Feilhåndtering
