@@ -25,7 +25,7 @@ PHP-integrasjon som:
 - Kopier eksempel-filen .env.example til .env:
 - Fyll inn din API-nøkkel:
 ```env
-PIPEDRIVE_API_TOKEN=din_api_nokkel  
+PIPEDRIVE_API_TOKEN=din_api_nøkkel  
 PIPEDRIVE_BASE_URL=https://nettbureaucase.pipedrive.com
 ```
 3. **Loggmappe** 
