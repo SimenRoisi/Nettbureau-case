@@ -22,10 +22,13 @@ PHP-integrasjon som:
    ```bash
    composer install
 2. **Konfigurer miljøvariabler**  
-Kopier eksempel-filen .env.example til .env:  
+- Kopier eksempel-filen .env.example til .env:
+- Fyll inn din API-nøkkel:
+```env
 PIPEDRIVE_API_TOKEN=din_api_nokkel  
-PIPEDRIVE_BASE_URL=https://nettbureaucase.pipedrive.com  
-3. **Loggmappe** 
+PIPEDRIVE_BASE_URL=https://nettbureaucase.pipedrive.com
+```
+4. **Loggmappe** 
 Integrasjonen skriver til logs/integration.log.  
 En tom mappe logs/ er lagt med i repoet.  
 
